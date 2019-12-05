@@ -4,3 +4,6 @@
 div#wall div#tag-2 {background-color: blue; opacity: 0.5}
 
 div#wall div#tag-3.slick {display: none}
+
+#wall .parent #tag-4 {z-index: 1}
+
